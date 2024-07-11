@@ -1,10 +1,10 @@
 # Information
 
-**This is a modified verison of Microsoft's gneerative AI for beginners [course](https://github.com/microsoft/generative-ai-for-beginners)**
+**This is a modified verison of Microsoft's gneerative AI for beginners [course](https://github.com/microsoft/generative-ai-for-beginners) as a demo for testing Co-Operator**
 Modifications:
 - Translations are removed to test Co-Operator, which is an experimental GitHub app that uses LLMs to translate documentation
-- Some chapters have been ommited
-- The original docs folder for Jekyll has been renamed to docs(jekyll) to avoid conflicts with the Co-Operator app
+- Several chapters have been ommited to reduce the testing time. All chapters used in the demo have been relocated to `docs/` folder
+- The original `/docs` folder for Jekyll has been renamed to docs(jekyll) to avoid conflicts with the Co-Operator app
 
 ![Generative AI For Beginners](./images/repo-thubmnail2.png?WT.mc_id=academic-105485-koreyst)
 
