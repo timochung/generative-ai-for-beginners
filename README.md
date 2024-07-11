@@ -1,6 +1,6 @@
 # Information
 
-**This is a modified verison of Microsoft's gneerative AI for beginners [course](https://github.com/microsoft/generative-ai-for-beginners) as a demo for testing Co-Operator**
+**This is a modified verison of Microsoft's generative AI for beginners [course](https://github.com/microsoft/generative-ai-for-beginners) as a demo for testing Co-Operator**
 Modifications:
 - Translations are removed to test Co-Operator, which is an experimental GitHub app that uses LLMs to translate documentation
 - Several chapters have been ommited to reduce the testing time. All chapters used in the demo have been relocated to `docs/` folder
